@@ -15,7 +15,7 @@ grunt test-client 			// jshint, karma
 npm start					// start a server  
 
 UPDATED README
-
+test
 
 Some experimental code using shared model between controllers and views
 
